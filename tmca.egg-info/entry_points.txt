@@ -1,0 +1,2 @@
+[console_scripts]
+tmca = src.main:cli
